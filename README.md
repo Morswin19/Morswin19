@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piotr
-- 👀 I’m interested in Coding, Sports, Music and some other things
+- 👀 I’m interested in Coding, Sports, Music and many other things
 - 🌱 I’m currently learning a lot of staff: php, wordpress, angular is only a small part of it
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me:
